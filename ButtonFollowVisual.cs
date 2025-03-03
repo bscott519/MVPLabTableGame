@@ -78,6 +78,7 @@ public class ButtonFollowVisual : MonoBehaviour
         }
     }
 
+
     public void ToggleAnimation()
     {
         if (animator != null)
