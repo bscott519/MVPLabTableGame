@@ -243,8 +243,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 10.179391, y: 0.36794752, z: 4.1189837}
-  m_Center: {x: -0.021404235, y: 0.079248324, z: -0.00061541796}
+  m_Size: {x: 10.179391, y: 1.8692052, z: 4.2908115}
+  m_Center: {x: -0.021404235, y: 0.829877, z: -0.086529404}
 --- !u!114 &6600504
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1859,7 +1859,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 04d4fb06e643e364ea3a914cdf0cdfeb,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 2.0168002
+      value: 2.0386
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 04d4fb06e643e364ea3a914cdf0cdfeb,
         type: 3}
@@ -3033,8 +3033,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 10.254534, y: 1.2133917, z: 4.258938}
-  m_Center: {x: -0.014996735, y: 0.45250458, z: 0.005400181}
+  m_Size: {x: 10.319028, y: 2.4499915, z: 5.0977135}
+  m_Center: {x: -0.04724388, y: 1.0708045, z: 0.04893303}
 --- !u!114 &260233417
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5146,8 +5146,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 10.179391, y: 0.7837773, z: 4.1189837}
-  m_Center: {x: -0.021404235, y: 0.2871633, z: -0.00061541796}
+  m_Size: {x: 10.179391, y: 1.5164754, z: 4.1189837}
+  m_Center: {x: -0.021404235, y: 0.65351236, z: -0.00061541796}
 --- !u!114 &315295175
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7198,8 +7198,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 10.179391, y: 2.2901158, z: 6.324811}
-  m_Center: {x: -0.021404235, y: 1.0403326, z: -0.08308649}
+  m_Size: {x: 10.179391, y: 2.602357, z: 6.324811}
+  m_Center: {x: -0.021404235, y: 1.1964531, z: -0.08308649}
 --- !u!114 &508773291
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10373,7 +10373,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: fcf63732cec03554889f0fce1cf4932b,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.4826
+      value: -0.508
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: fcf63732cec03554889f0fce1cf4932b,
         type: 3}
@@ -12718,8 +12718,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 10.254534, y: 0.8498411, z: 4.258938}
-  m_Center: {x: -0.014996735, y: 0.27072927, z: 0.005400181}
+  m_Size: {x: 10.254534, y: 1.9541007, z: 4.258938}
+  m_Center: {x: -0.014996735, y: 0.82285905, z: 0.005400181}
 --- !u!1 &904309838 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -8346006443998412576, guid: 8438b100a3fb060468444db0509949af,
